@@ -1,6 +1,6 @@
 #include <iostream>
+#include "Day01.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+   std::cout << Day01::part2() << std::endl;
 }
