@@ -4,7 +4,8 @@ project(AOC25)
 set(CMAKE_CXX_STANDARD 26)
 
 add_executable(AOC25 main.cpp
-        Day01.h)
+        Day01.h
+        Day02.h)
 
 set(INPUT_FOLDER "puzzle_inputs")
 

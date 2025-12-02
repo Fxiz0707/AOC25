@@ -1,6 +1,6 @@
 #include <iostream>
-#include "Day01.h"
+#include "Day02.h"
 
 int main() {
-   std::cout << Day01::part2() << std::endl;
+   std::cout << Day02::part2() << std::endl;
 }
